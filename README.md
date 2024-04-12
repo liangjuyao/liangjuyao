@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm LjulyAo</h1>
 
-<img align="right" width="150px" src="https://gitea.LjulyAo.com/togo/iBeats/media/branch/main/files/heart.svg"/>
+
 
 <h3 align="center">A passionate fullstack developer from China</h3>
 
-<p align="center"> <a href="https://twitter.com/togo13duke001" target="blank"><img src="https://img.shields.io/twitter/follow/togo13duke001?logo=twitter&style=for-the-badge" alt="togo13duke001" /></a> </p>
+<p align="center"><img src="https://www.svgrepo.com/show/345504/bilibili.svg" alt="togo13duke001" /></a> </p>
 
 <p align="center">
 
